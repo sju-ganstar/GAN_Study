@@ -1,2 +1,2 @@
-# GAN_study
-This repository includes theories, studies and codes about GAN
+# Study
+This repository includes theories, studies about AI
